@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "sourceMap": false,
+        "module": "CommonJS",
+        "rootDir": "src/lib",
+        "outDir": "src/runner"
+    }
+}
